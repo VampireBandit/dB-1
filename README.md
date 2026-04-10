@@ -10,6 +10,23 @@ An MP3 player inspired by the Sony  Walkman.Featuring custom UI interactive navi
 
 
 
+
+
+# Images
+
+
+![](Images/Overall.png)
+
+![](Images/3D_pcb_front.png)
+
+![](Images/3D_pcb_back.png)
+
+![](Images/PCB.png)
+
+![](Images/Shcematic.png)
+
+
+
 # Features
 
 
@@ -45,20 +62,6 @@ An MP3 player inspired by the Sony  Walkman.Featuring custom UI interactive navi
 
 -Programmabe environment
 
-
-
-# Images
-
-
-![](Images/Overall.png)
-
-![](Images/3D_pcb_front.png)
-
-![](Images/3D_pcb_back.png)
-
-![](Images/PCB.png)
-
-![](Images/Shcematic.png)
 
 
 
