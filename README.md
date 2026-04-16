@@ -14,8 +14,8 @@ An MP3 player inspired by the Sony  Walkman.Featuring custom UI interactive navi
 
 # Images
 
-
 ![](Images/Overall.png)
+
 
 ![](Images/3D_pcb_front.png)
 
@@ -69,24 +69,22 @@ An MP3 player inspired by the Sony  Walkman.Featuring custom UI interactive navi
 Note: All of the schematic symbols and footprints are not available in KIcad
 # BOM
 
-| Name | Purpose | Quantity |
-| :--- | :--- | :--- |
-| Name | Purpose | Quantity |
-| :--- | :--- | :--- |
-| **Enclosure** | Casing | 1 |
-| **PCB** | Circuit board | 5 |
-| **Li-Ion Battery** | Powering | 1 |
-| **47k ohm resistor** | Voltage limit | 1 |
-| **10k ohm resistor** | Voltage reg | 2 |
-| **10uf Capacitor** | Voltage reg | 2 |
-| **HT7533 Regulator** | Power reg | 1 |
-| **Cherry MX Switches** | Navigation | 10 |
-| **Micro SD card** | Micro SD slot | 1 |
-| **EC-11 Rotary** | Volume control | 1 |
-| **2.8 Inch Screen** | Display | 1 |
-| **TP4056 Charger** | Battery charger | 1 |
-| **GY-PCM5102** | Audio driver | 1 |
-| **ESP32-WROOM** | MCU | 1 |
+| Name | Purpose | Quantity | Total Cost | Link | Distributor |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Enclosure** | Casing | 1 | 13 | [Link](https://so) | @Souptik Samanta |
+| **PCB** | Circuit board | 5 | 11.3 | [Link](https://jlc) | Aliexpress |
+| **Li-Ion Battery** | Powering | 1 | 13.6 | [Link](https://wv) | Aliexpress |
+| **47k ohm resistor** | Voltage limit | 1 | 1.47 | [Link](https://wv) | Aliexpress |
+| **10k ohm resistor** | Voltage reg | 2 | 1.47 | [Link](https://wv) | Aliexpress |
+| **10uf Capacitor** | Voltage reg | 2 | 0.93 | [Link](https://wv) | Aliexpress |
+| **HT7533 Regulator** | Power reg | 1 | 1.84 | [Link](https://wv) | Liexpress |
+| **Cherry MX Switches** | Navigation | 10 | 9.51 | [Link](https://wv) | Aliexpress |
+| **Micro SD card** | Micro SD slot | 1 | 9.57 | [Link](https://wv) | Aliexpress |
+| **EC-11 Rotary** | Volume control | 1 | 4.33 | [Link](https://wv) | Aliexpress |
+| **2.8 Inch Screen** | Display | 1 | 9.99 | [Link](https://wv) | Aliexpress |
+| **TP4056 Charger** | Battery charger | 1 | 3.55 | [Link](https://wv) | Aliexpress |
+| **GY-PCM5102** | Audio driver | 1 | 5.35 | [Link](https://wv) | Aliexpress |
+| **ESP32-WROOM** | MCU | 1 | 7.72 | [Link](https://wv) | Aliexpress |
 
 Made by Rubaiyat_Islam
 
