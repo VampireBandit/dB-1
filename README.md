@@ -13,8 +13,7 @@ An MP3 player inspired by the Sony  Walkman.Featuring custom UI interactive navi
 
 
 # Images
-
-![](Images/Overall.png)
+![](Images/Over.png)
 
 
 ![](Images/3D_pcb_front.png)
