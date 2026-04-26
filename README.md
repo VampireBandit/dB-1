@@ -1,4 +1,4 @@
-# dB-1
+# DB-1
 
 An MP3 player inspired by the Sony  Walkman.Featuring custom UI interactive navigation and minimalism.Bluethooth commectivity and wifi support along with customizable settings. A crush for music lovers
 
@@ -13,16 +13,22 @@ An MP3 player inspired by the Sony  Walkman.Featuring custom UI interactive navi
 
 
 # Images
-![](Images/Over.png)
+![](Images/Overall.png)
 
 
-![](Images/3D_pcb_front.png)
+![](Images/Front.png)
 
-![](Images/3D_pcb_back.png)
+![](Images/Side.png)
+
+![](Images/UP.png)
+
+![](Images/Front_3D.png)
+
+![](Images/Back_3D.png)
 
 ![](Images/PCB.png)
 
-![](Images/Shcematic.png)
+![](Images/Schematic.png)
 
 
 
